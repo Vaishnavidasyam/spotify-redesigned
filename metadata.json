@@ -1,0 +1,11 @@
+{
+  "name": "Aether AI",
+  "description": "A cinematic AI audio experience with real-time mood analysis and adaptive soundscapes.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "Audio Analysis",
+    "AI Personalization"
+  ]
+}
